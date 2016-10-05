@@ -30,6 +30,8 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+require('vendor/autoload.php');
+
 /**
  * The code that runs during plugin activation.
  * This action is documented in includes/class-plugin-name-activator.php

@@ -30,7 +30,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-require('vendor/autoload.php');
+// require('vendor/autoload.php');
 
 /**
  * The code that runs during plugin activation.

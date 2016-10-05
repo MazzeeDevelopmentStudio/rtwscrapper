@@ -1,0 +1,19 @@
+{
+    "name": "rtw/scrapper",
+    "description": "RTW Scrapper",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Michael Hamson",
+            "email": "michael@mazzee.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"RTW\\": "src/"
+		}
+	}
+}

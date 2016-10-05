@@ -1,6 +1,8 @@
 <?php
 namespace RTW;
 
+use RTW\Model\Jobs;
+
 /**
 * 
 */

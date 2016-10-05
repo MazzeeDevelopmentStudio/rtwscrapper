@@ -1,7 +1,7 @@
 {
     "name": "rtw/scrapper",
     "description": "RTW Scrapper",
-    "type": "library",
+    "type": "wordpress-plugin",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
